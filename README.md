@@ -34,7 +34,7 @@ class VinayagamD:
     name         = "Vinayagam D"
     role         = "Backend Engineer"
     location     = "Chennai, Tamil Nadu 🇮🇳"
-    current      = "Trames Pvt Ltd (Singapore, Remote)"
+    current      = "Trames Pvt Ltd"
 
     stack = {
         "core"   : ["Python", "Django", "DRF"],
@@ -118,7 +118,7 @@ class VinayagamD:
                                                          Led 6 devs · WhatsApp API · AI pipelines
                                                          Webhook systems · Async processing
                                                          Commai SaaS · Civic Tech · Fintech
-  [2026.02] ◉ Backend Engineer   @ Trames Pvt Ltd     → Singapore (Remote) · Logistics Tech
+  [2026.02] ◉ Backend Engineer   @ Trames Pvt Ltd     → Logistics Tech
                                                          Node.js · TypeScript · Global freight ops
                                                          Real-time shipment tracking · Still writing ✍️
 

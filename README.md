@@ -9,7 +9,7 @@
   ╚═══╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝     ╚═╝
 ```
 
-### `[ BACKEND ENGINEER · PYTHON · DJANGO · CHENNAI, IN ]`
+### `[ BACKEND ENGINEER ]`
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Building+systems+that+scale.+%F0%9F%9A%80;200K%2B+users+served+across+production+apps.;Django+%7C+DRF+%7C+PostgreSQL+%7C+Redis+%7C+AWS;Webhook+systems.+Async+processing.+Real+load.)](https://git.io/typing-svg)
 
@@ -273,13 +273,13 @@ Donor → Django API → Razorpay / PayU
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vinaynural&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&include_all_commits=true&count_private=true&rank_icon=github" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=vinaynural&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=1800" height="170"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinaynural&layout=compact&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9&langs_count=8" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinaynural&layout=compact&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9&langs_count=8&cache_seconds=1800" height="170"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=vinaynural&hide_border=true&background=0d1117&ring=00FF41&fire=00cc33&currStreakLabel=00FF41&sideLabels=00FF41&dates=c9d1d9&stroke=00FF41&currStreakNum=ffffff&sideNums=ffffff" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=vinaynural&hide_border=true&background=0d1117&ring=00FF41&fire=00cc33&currStreakLabel=00FF41&sideLabels=00FF41&dates=c9d1d9&stroke=00FF41&currStreakNum=ffffff&sideNums=ffffff" height="170"/>
 
 </div>
 

@@ -273,9 +273,9 @@ Donor → Django API → Razorpay / PayU
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vinaynural&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=1800" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vinaynural&theme=github_dark" height="170"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinaynural&layout=compact&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9&langs_count=8&cache_seconds=1800" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vinaynural&theme=github_dark" height="170"/>
 
 <br/><br/>
 

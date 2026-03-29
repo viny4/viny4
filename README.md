@@ -162,8 +162,8 @@ class VinayagamD:
     │                       ✦ Commai SaaS · Civic Tech · Fintech · Payments          │
     │                                          ↓                                     │
     │   🌟  [2026.02]  ▓▓▓  BACKEND ENGINEER  @ Trames Pvt Ltd  🛸                   │
-    │                       ✦ Singapore-based global logistics tech                  │
-    │                       ✦ Node.js · TypeScript · Real-time freight tracking      │
+    │                                    │
+    │                         │
     │                       ✦ Global freight operations · Still writing ✍️            │
     │                                                                                 │
     └─────────────────────────────────────────────────────────────────────────────────┘
@@ -363,9 +363,7 @@ Webhook-driven payment backend with idempotency, signature verification, auto-re
   ╠══════════════════════════════════════════════════════════════════════╣
   ║                                                                      ║
   ║  🟣  TRAMES PVT LTD  [FEB 2026 — ONGOING]                           ║
-  ║      Singapore logistics tech platform. Node.js + TypeScript.        ║
-  ║      Global freight ops. Real-time shipment tracking. Still writing. ║
-  ║                                                                      ║
+  ║            ║  ║                                                                      ║
   ║  🌌  DEEPENING SYSTEM DESIGN                                         ║
   ║      Distributed systems. High-availability architectures.           ║
   ║      Backends built for real-world gravitational pressure.           ║
@@ -373,10 +371,7 @@ Webhook-driven payment backend with idempotency, signature verification, auto-re
   ║  🤖  AI INTEGRATION IN BACKEND WORKFLOWS                             ║
   ║      Intelligent APIs. RAG pipelines. Smarter async processing.      ║
   ║      Bridging AI capabilities and production-grade Django backends.  ║
-  ║                                                                      ║
-  ║  🔭  OPEN SOURCE · ROBOTICS RESEARCH                                 ║
-  ║      Contributing to LLM-based automatic planner/controller gen.    ║
-  ║      Under Christopher Mower @ Huawei Noah's Ark Lab.               ║
+  ║                                                                      ║              ║
   ║                                                                      ║
   ║  🌙  ALWAYS BUILDING                                                 ║
   ║      Side projects. Space science rabbit holes. 🌌                   ║

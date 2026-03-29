@@ -1,103 +1,133 @@
 <div align="center">
 
+<!-- COSMIC HEADER -->
 ```
-██╗   ██╗██╗███╗   ██╗ █████╗ ██╗   ██╗ █████╗  ██████╗  █████╗ ███╗   ███╗
-██║   ██║██║████╗  ██║██╔══██╗╚██╗ ██╔╝██╔══██╗██╔════╝ ██╔══██╗████╗ ████║
-██║   ██║██║██╔██╗ ██║███████║ ╚████╔╝ ███████║██║  ███╗███████║██╔████╔██║
-╚██╗ ██╔╝██║██║╚██╗██║██╔══██║  ╚██╔╝  ██╔══██║██║   ██║██╔══██║██║╚██╔╝██║
- ╚████╔╝ ██║██║ ╚████║██║  ██║   ██║   ██║  ██║╚██████╔╝██║  ██║██║ ╚═╝ ██║
-  ╚═══╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝     ╚═╝
+        ✦  ·  ˚  ·  ✦  ·  *  ·  ˚  ·  ✦  ·  *  ·  ˚  ·  ✦  ·  *  ·  ˚  ·  ✦  ·  *  ·  ˚
 ```
 
-### `[ BACKEND ENGINEER ]`
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0a0015,50:1a0a3e,100:0d1b4b&height=200&section=header&text=VINAYAGAM%20D&fontSize=52&fontColor=c8b8ff&fontAlignY=38&desc=Backend%20Engineer%20%E2%80%A2%20System%20Architect%20%E2%80%A2%20Space%20Dreamer&descSize=14&descAlignY=60&descColor=7b61ff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0015,50:1a0a3e,100:0d1b4b&height=200&section=header&text=VINAYAGAM%20D&fontSize=52&fontColor=c8b8ff&fontAlignY=38&desc=Backend%20Engineer%20%E2%80%A2%20System%20Architect%20%E2%80%A2%20Space%20Dreamer&descSize=14&descAlignY=60&descColor=7b61ff&animation=fadeIn"/>
+</picture>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Building+systems+that+scale.+%F0%9F%9A%80;200K%2B+users+served+across+production+apps.;Django+%7C+DRF+%7C+PostgreSQL+%7C+Redis+%7C+AWS;Webhook+systems.+Async+processing.+Real+load.)](https://git.io/typing-svg)
+<!-- STAR FIELD DIVIDER -->
+```
+    ★  ·  ✧  ·  ⋆  ·  ·  ✦  ·  ˚  ·  ⋆  ·  ·  ✧  ·  ★  ·  ✧  ·  ⋆  ·  ·  ✦  ·  ˚  ·  ⋆
+```
 
-[![Profile Views](https://komarev.com/ghpvc/?username=vinaynural&style=flat-square&color=00FF41&label=PROFILE+VIEWS)](https://github.com/vinaynural)
-[![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-vinay--engineer.me-00FF41?style=flat-square&labelColor=0d1117)](https://vinay-engineer.me/)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-vinjr-00FF41?style=flat-square&logo=linkedin&logoColor=00FF41&labelColor=0d1117)](https://www.linkedin.com/in/vinjr)
-[![Email](https://img.shields.io/badge/GMAIL-vinayagam.python-00FF41?style=flat-square&logo=gmail&logoColor=00FF41&labelColor=0d1117)](mailto:vinayagam.python@gmail.com)
-[![X](https://img.shields.io/badge/X-@__vinyjr-00FF41?style=flat-square&logo=x&logoColor=00FF41&labelColor=0d1117)](https://x.com/_vinyjr)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=15&pause=1500&color=a78bfa&center=true&vCenter=true&width=700&lines=%F0%9F%8C%8C+Traversing+the+code+nebula+since+2023...;%F0%9F%AA%90+200%2C000%2B+users+served+across+production+systems;%F0%9F%9A%80+Django+%E2%80%A2+DRF+%E2%80%A2+PostgreSQL+%E2%80%A2+Redis+%E2%80%A2+AWS;%F0%9F%8C%A0+Building+backends+that+survive+real+gravity;%E2%9C%A8+The+cosmos+is+within+us+%E2%80%94+and+so+is+my+code.)](https://git.io/typing-svg)
+
+<br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=vinaynural&style=flat-square&color=a78bfa&label=👁️+OBSERVERS)](https://github.com/vinaynural)
+[![Portfolio](https://img.shields.io/badge/🌐_MISSION_CONTROL-vinay--engineer.me-a78bfa?style=flat-square&labelColor=0d0020)](https://vinay-engineer.me/)
+[![LinkedIn](https://img.shields.io/badge/🪐_LINKEDIN-vinjr-7c3aed?style=flat-square&labelColor=0d0020)](https://www.linkedin.com/in/vinjr)
+[![Email](https://img.shields.io/badge/📡_SIGNAL-vinayagam.python-6d28d9?style=flat-square&labelColor=0d0020)](mailto:vinayagam.python@gmail.com)
+[![X](https://img.shields.io/badge/🌌_X-@__vinyjr-5b21b6?style=flat-square&labelColor=0d0020)](https://x.com/_vinyjr)
 
 </div>
 
 ---
 
+<div align="center">
+
+## 🌌 `— STELLAR CARTOGRAPHY —`
+
+*Every star in this map is a system I've built, a problem I've solved, a universe I've explored.*
+
+</div>
+
+<br/>
+
 <table>
 <tr>
 <td width="52%" valign="top">
 
-## `> whoami`
+## 🪐 `TRANSMISSION — WHO AM I`
 
 ```python
+# ═══════════════════════════════════════
+# ✦  SIGNAL ORIGIN : SECTOR CHENNAI-IN  ✦
+# ═══════════════════════════════════════
+
 class VinayagamD:
-    name         = "Vinayagam D"
-    role         = "Backend Engineer"
-    location     = "Chennai, Tamil Nadu 🇮🇳"
-    current      = "Trames Pvt Ltd"
 
-    stack = {
+    name      = "Vinayagam D"
+    codename  = "VINAY"
+    role      = "Backend Engineer"
+    orbit     = "Trames Pvt Ltd · 2026"
+    homeworld = "Chennai, Tamil Nadu 🇮🇳"
+    galaxy    = "Milky Way 🌌"
+
+    propulsion = {
         "core"   : ["Python", "Django", "DRF"],
-        "db"     : ["PostgreSQL", "MySQL", "Redis"],
+        "fuel"   : ["PostgreSQL", "Redis", "MySQL"],
         "cloud"  : ["AWS EC2/S3/SES/SNS/Route53"],
-        "async"  : ["Celery", "Django Channels",
-                    "WebSockets"],
-        "devops" : ["Docker", "Nginx", "Gunicorn"],
-        "ai"     : ["Gemini AI", "LangChain",
-                    "RAG Pipelines"],
-        "prev"   : ["PHP", "Node.js", "TypeScript"],
+        "thrust" : ["Celery", "Channels", "WebSockets"],
+        "shields": ["Docker", "Nginx", "Gunicorn"],
+        "sensors": ["Gemini AI", "LangChain", "RAG"],
+        "nav"    : ["Node.js", "TypeScript"],
     }
 
-    metrics = {
-        "users_served"   : "200,000+",
-        "api_perf_gain"  : "200%",
-        "work_automated" : "60%",
-        "apps_shipped"   : "8+ production",
-        "uptime"         : "99%+",
+    mission_log = {
+        "stars_served"   : "200,000+ users",
+        "thrust_gained"  : "200% API perf",
+        "systems_built"  : "8+ production",
+        "uptime"         : "99%+ orbit stable",
+        "automation"     : "60% work automated",
     }
 
-    interests = ["Space Science 🌌", "System Design",
-                 "Distributed Systems", "AI Integration"]
+    signals = [
+        "Space Science 🌌",
+        "System Design 🛸",
+        "Distributed Systems 🪐",
+        "AI Integration 🤖",
+        "Open Source 🔭",
+    ]
 
-    def mission(self):
-        return "Build systems that scale. 🚀"
-
-    def portfolio(self):
-        return "https://vinay-engineer.me/"
+    def mission(self) -> str:
+        return "Build systems that survive real gravity. 🚀"
 ```
 
 </td>
 <td width="48%" valign="top">
 
-## `> ./metrics --live`
+## 📡 `MISSION TELEMETRY — LIVE`
 
 ```
-┌─────────────────────────────────────────┐
-│         PRODUCTION SCORECARD            │
-├─────────────────────────────────────────┤
-│                                         │
-│  USERS SERVED    ██████████  200K+      │
-│  APPS SHIPPED    ████████░░  8+         │
-│  API PERF GAIN   ██████████  200%       │
-│  WORK AUTOMATED  ██████░░░░  60%        │
-│  UPTIME SLA      ██████████  99%+       │
-│                                         │
-├─────────────────────────────────────────┤
-│                                         │
-│  BACKEND ENG     ████████████  100%     │
-│  SYSTEM DESIGN   ██████████░░   85%     │
-│  ML / AI         ████████░░░░   75%     │
-│  OPEN SOURCE     ██████░░░░░░   50%     │
-│  SPACE SCIENCE   ████████████  ∞ 🌌     │
-│                                         │
-├─────────────────────────────────────────┤
-│  status   : SHIPPING CODE 🚀            │
-│  coffee   : ∞                           │
-│  available: ALWAYS ✅                   │
-└─────────────────────────────────────────┘
+╔═══════════════════════════════════════╗
+║     🌌  DEEP SPACE OPS READOUT  🌌    ║
+╠═══════════════════════════════════════╣
+║                                       ║
+║  ★  USERS SERVED                      ║
+║     ██████████████████  200K+         ║
+║                                       ║
+║  🚀  APPS DEPLOYED                    ║
+║     ████████████████░░  8+            ║
+║                                       ║
+║  ⚡  API PERFORMANCE DELTA            ║
+║     ██████████████████  +200%         ║
+║                                       ║
+║  🤖  WORKFLOW AUTOMATION              ║
+║     ████████████░░░░░░  60%           ║
+║                                       ║
+║  🛡️  UPTIME SLA                       ║
+║     ██████████████████  99%+          ║
+║                                       ║
+╠═══════════════════════════════════════╣
+║  SYSTEM DESIGN  ╠██████████████░╣ 85% ║
+║  ML · AI        ╠████████████░░╣  75% ║
+║  OPEN SOURCE    ╠████████░░░░░░╣  50% ║
+║  SPACE SCIENCE  ╠██████████████╣  ∞ 🌌║
+╠═══════════════════════════════════════╣
+║  🛸 STATUS   : SHIPPING CODE          ║
+║  ☕ COFFEE   : INFINITE               ║
+║  📻 SIGNAL   : STRONG ✅              ║
+║  🌍 ORBIT    : STABLE 🟢              ║
+╚═══════════════════════════════════════╝
 ```
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vinaynural&bg_color=0d1117&color=00FF41&line=00FF41&point=ffffff&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vinaynural&bg_color=0d0020&color=a78bfa&line=7c3aed&point=e0d7ff&area=true&hide_border=true" width="100%"/>
 
 </td>
 </tr>
@@ -105,89 +135,118 @@ class VinayagamD:
 
 ---
 
-## `> cat mission_timeline.log`
+## 🌠 `ORBITAL TIMELINE — FROM DUST TO STARS`
 
 ```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ORBITAL HISTORY ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+          ·  ˚  ✦  ˚  ·       C O S M I C   O R I G I N   S T O R Y       ·  ˚  ✦  ˚  ·
 
-  [2021.01] ◉ QA Inspector       @ Yazaki             → Discipline. Precision. Zero-defect systems.
-  [2021.12] ◉ QA Inspector       @ Magna International → Quality at scale. Process engineering.
-  [2022.10] ◉ Assembly Operator  @ Pegatron           → Understanding machines and workflows.
-  [2023.02] ◉ PHP Dev Intern     @ CADD Centre        → First line of code. First spark 🔥
-  [2023.10] ◉ Django Developer   @ Thaagam Foundation → 8 backends · 200K users · 99% uptime
-                                                         Led 6 devs · WhatsApp API · AI pipelines
-                                                         Webhook systems · Async processing
-                                                         Commai SaaS · Civic Tech · Fintech
-  [2026.02] ◉ Backend Engineer   @ Trames Pvt Ltd     → Logistics Tech
-                                                         Node.js · TypeScript · Global freight ops
-                                                         Real-time shipment tracking · Still writing ✍️
+    ┌─────────────────────────────────────────────────────────────────────────────────┐
+    │                                                                                 │
+    │   🌑  [2021.01]  ░░░  QA INSPECTOR      @ Yazaki                               │
+    │                       Precision. Zero-defect systems. Discipline forged.        │
+    │                                          ↓                                     │
+    │   🌒  [2021.12]  ░░░  QA INSPECTOR      @ Magna International                  │
+    │                       Quality at scale. Process engineering under pressure.     │
+    │                                          ↓                                     │
+    │   🌓  [2022.10]  ░░░  ASSEMBLY OPS      @ Pegatron                             │
+    │                       Understanding machines from the inside out.               │
+    │                                          ↓                                     │
+    │   🌔  [2023.02]  ▓░░  PHP DEV INTERN    @ CADD Centre                          │
+    │                       First line of code. First spark ignited. 🔥               │
+    │                                          ↓                                     │
+    │   🌕  [2023.10]  ▓▓▓  DJANGO DEVELOPER  @ Thaagam Foundation                   │
+    │                       ✦ 8 production backends · 200K+ users · 99% uptime       │
+    │                       ✦ Led team of 6 devs                                     │
+    │                       ✦ WhatsApp API · Gemini AI · Celery pipelines            │
+    │                       ✦ Webhook systems · Async processing at scale            │
+    │                       ✦ Commai SaaS · Civic Tech · Fintech · Payments          │
+    │                                          ↓                                     │
+    │   🌟  [2026.02]  ▓▓▓  BACKEND ENGINEER  @ Trames Pvt Ltd  🛸                   │
+    │                       ✦ Singapore-based global logistics tech                  │
+    │                       ✦ Node.js · TypeScript · Real-time freight tracking      │
+    │                       ✦ Global freight operations · Still writing ✍️            │
+    │                                                                                 │
+    └─────────────────────────────────────────────────────────────────────────────────┘
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+          ·  ˚  ✦  ˚  ·       T H E   J O U R N E Y   C O N T I N U E S       ·  ˚  ✦  ˚  ·
 ```
 
 ---
 
-## `> ls projects/ --featured`
+## 🛸 `PLANETARY SYSTEMS — FEATURED PROJECTS`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🔴 `COMMAI — OMNICHANNEL AI` &nbsp; [![Live](https://img.shields.io/badge/LIVE-commai.m7corporation.com-00FF41?style=flat-square&labelColor=0d1117)](https://commai.m7corporation.com/)
+### 🔴 PLANET COMMAI
+#### `OMNICHANNEL AI PLATFORM`
+[![Live](https://img.shields.io/badge/🌐_LIVE_ORBIT-commai.m7corporation.com-a78bfa?style=flat-square&labelColor=0d0020)](https://commai.m7corporation.com/)
 
 > *SaaS · Multi-Tenant · Webhook-Driven · AI-Assisted*
 
-A production SaaS platform unifying **WhatsApp, Instagram, Facebook Messenger, and Email** into one AI-powered business dashboard.
+A production SaaS platform unifying **WhatsApp, Instagram, Facebook Messenger, and Email** into one AI-powered mission control.
 
 ```
-Customer → WA/IG/FB/Email → Webhook Gateway
-→ Django API (DRF) → Redis Queue
-→ PostgreSQL → AI Processing → Response
+                   🛸 SYSTEM ARCHITECTURE
+    ┌───────────────────────────────────────┐
+    │  CLIENT → WA/IG/FB/Email              │
+    │       → Webhook Gateway               │
+    │       → Django API (DRF)              │
+    │       → Redis Queue                   │
+    │       → PostgreSQL                    │
+    │       → AI Processing → Response      │
+    └───────────────────────────────────────┘
 ```
 
-**Key Engineering:**
+**🌌 Engineering Highlights:**
 - Multi-tenant schema isolation per customer
-- Webhook endpoints return `200 OK` immediately — async via Celery
-- Idempotency keys prevent double-processing on retries
+- Webhooks return `200 OK` instantly — async via Celery
+- Idempotency keys prevent double-processing
 - AI layer generates automated reply suggestions
-- Adding a new channel = new webhook handler only; core pipeline untouched
+- New channel = one new handler, core untouched
 
-`Python` `Django` `DRF` `PostgreSQL` `Redis` `Celery` `WhatsApp API` `Gemini AI` `Docker` `AWS`
+`Python` `Django` `DRF` `PostgreSQL` `Redis` `Celery`
+`WhatsApp API` `Gemini AI` `Docker` `AWS`
 
 </td>
 <td width="50%" valign="top">
 
-### 🔴 `CIVIC SERVICES PLATFORM` &nbsp; ![Scale](https://img.shields.io/badge/200K%2B-USERS-00FF41?style=flat-square&labelColor=0d1117)
+### 🔵 PLANET CIVICA
+#### `CIVIC SERVICES PLATFORM`
+![Scale](https://img.shields.io/badge/🌍_200K%2B-CITIZENS_SERVED-7c3aed?style=flat-square&labelColor=0d0020)
 
-> *AI · NGO · Django · Document Validation*
+> *AI · Django · Document Validation · NGO*
 
 A Django backend serving **200K+ citizens** for service requests, AI identity verification, and grievance tracking.
 
 ```
-Client → Nginx → Django API → Redis Cache
-→ PostgreSQL → Gemini AI → AWS S3
+                   🌍 SYSTEM ARCHITECTURE
+    ┌───────────────────────────────────────┐
+    │  Client → Nginx → Django API          │
+    │       → Redis Cache                   │
+    │       → PostgreSQL                    │
+    │       → Gemini AI → AWS S3            │
+    └───────────────────────────────────────┘
 ```
 
-**Key Engineering:**
-- Gemini AI validates ID documents asynchronously via Celery
+**🌌 Engineering Highlights:**
+- Gemini AI validates ID documents asynchronously
 - Redis caching on read-heavy citizen endpoints
 - AWS S3 + presigned URLs for document storage
 - Near-zero manual ID review backlog
 
-`Python` `Django` `DRF` `PostgreSQL` `Redis` `Celery` `Gemini AI` `AWS EC2/S3` `Nginx`
+`Python` `Django` `DRF` `PostgreSQL` `Redis`
+`Celery` `Gemini AI` `AWS EC2/S3` `Nginx`
 
 ---
 
-### 🔴 `DONATION PAYMENT SYSTEM`
+### 💛 PLANET FINVAULT
+#### `DONATION PAYMENT SYSTEM`
 
-> *Fintech · Razorpay/PayU · Compliance*
+> *Fintech · Razorpay/PayU · Compliance · Audit*
 
-Webhook-driven payment backend with idempotency, signature verification, auto-receipt dispatch, and 80G-compliant audit trail.
-
-```
-Donor → Django API → Razorpay / PayU
-↩ Webhook → PostgreSQL → AWS SES Receipt
-```
+Webhook-driven payment backend with idempotency, signature verification, auto-receipts, and 80G-compliant audit trail.
 
 `Django` `DRF` `PostgreSQL` `Razorpay` `PayU` `Redis` `AWS SES`
 
@@ -197,142 +256,168 @@ Donor → Django API → Razorpay / PayU
 
 ---
 
-## `> cat architecture/production-pattern.txt`
+## 🌌 `GALAXY CORE — ARCHITECTURE BLUEPRINT`
 
 ```
-                    SCALABLE PRODUCTION BACKEND — USED ACROSS 8+ APPS · 200K+ USERS
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+              🌠  SCALABLE PRODUCTION BACKEND — 8+ APPS · 200K+ USERS  🌠
+    ═══════════════════════════════════════════════════════════════════════════
 
-  ┌──────────┐     ┌───────────┐     ┌─────────────┐     ┌───────────┐     ┌────────────┐
-  │  CLIENT  │────▶│   NGINX   │────▶│  DJANGO API │────▶│   REDIS   │────▶│ POSTGRESQL │
-  │          │     │ TLS · Rate│     │ DRF · Auth  │     │Cache·Queue│     │ ACID Store │
-  └──────────┘     │  Limiting │     │  Business   │     │  Session  │     └────────────┘
-                   └───────────┘     │   Logic     │     └─────┬─────┘
-                                     └─────────────┘           │
-                                                                ▼
-                                     ┌──────────────────────────────────────────────┐
-                                     │            CELERY ASYNC WORKERS               │
-                                     │  Email · AI Processing · Webhook Handlers     │
-                                     │  File Processing · Payment Receipts           │
-                                     └──────────────────────────────────────────────┘
-                                                                │
-                                     ┌──────────────────────────────────────────────┐
-                                     │             EXTERNAL SERVICES                 │
-                                     │  WhatsApp API · Gemini AI · AWS S3/SES/SNS   │
-                                     │  Razorpay · PayU · Instagram · FB Messenger  │
-                                     └──────────────────────────────────────────────┘
+         🌍                🛡️                  ⚡                  🪐
+      ┌────────┐      ┌──────────┐        ┌──────────┐        ┌──────────┐
+      │ CLIENT │─────▶│  NGINX   │───────▶│ DJANGO   │───────▶│  REDIS   │
+      │        │      │ TLS Rate │        │ API DRF  │        │ Cache +  │
+      └────────┘      │ Limiting │        │ Business │        │  Queue   │
+                      └──────────┘        │  Logic   │        └────┬─────┘
+                                          └──────────┘             │
+                                                                    ▼
+                                          ┌──────────────────────────────────┐
+                                          │   🌌  CELERY ASYNC WORKERS  🌌   │
+                                          │  Email · AI · Webhook Handlers   │
+                                          │  File Processing · Payments      │
+                                          └────────────────┬─────────────────┘
+                                                           │
+                           ┌───────────────────────────────────────────────┐
+                           │          🛸  EXTERNAL UNIVERSE  🛸             │
+                           │  WhatsApp · Gemini AI · AWS S3/SES/SNS        │
+                           │  Razorpay · PayU · Instagram · FB Messenger   │
+                           └───────────────────────────────────────────────┘
 
-  KEY DESIGN DECISIONS:
-  ▸ Webhook endpoints → validate sig + enqueue → return 200 OK immediately. Never block.
-  ▸ Redis cache invalidated via Django post_save signals — not TTL-only. Correctness guaranteed.
-  ▸ Celery workers per priority queue — payments/webhooks get dedicated lanes. No queue bleed.
-  ▸ Each layer scales independently: Gunicorn workers ≠ Celery workers ≠ DB replicas.
+                         ┌─────────────────────────────────────────────┐
+                         │           ✦  CORE GRAVITY LAWS  ✦           │
+                         │                                             │
+                         │ ▸ Webhooks → validate + enqueue → 200 OK   │
+                         │   immediately. NEVER block the event loop.  │
+                         │                                             │
+                         │ ▸ Redis cache invalidated via post_save     │
+                         │   signals — not TTL alone. Always correct.  │
+                         │                                             │
+                         │ ▸ Celery per priority queue — payments get  │
+                         │   dedicated lanes. Zero queue bleed.        │
+                         │                                             │
+                         │ ▸ Each layer scales independently.          │
+                         │   Gunicorn ≠ Celery ≠ DB replicas.         │
+                         └─────────────────────────────────────────────┘
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    ═══════════════════════════════════════════════════════════════════════════
 ```
 
 ---
 
-## `> cat skills/all.txt`
+## 🔭 `STAR SYSTEMS — FULL SKILL ATLAS`
 
 <div align="center">
 
-**LANGUAGES & FRAMEWORKS**
+**🌟 CORE LANGUAGES & FRAMEWORKS**
 
-![Python](https://img.shields.io/badge/Python-Expert-00FF41?style=for-the-badge&logo=python&logoColor=00FF41&labelColor=0d1117)
-![Django](https://img.shields.io/badge/Django-Expert-00FF41?style=for-the-badge&logo=django&logoColor=00FF41&labelColor=0d1117)
-![DRF](https://img.shields.io/badge/Django_REST_Framework-Expert-00FF41?style=for-the-badge&labelColor=0d1117)
-![Celery](https://img.shields.io/badge/Celery-Advanced-00FF41?style=for-the-badge&logo=celery&logoColor=00FF41&labelColor=0d1117)
-![PHP](https://img.shields.io/badge/PHP-Intermediate-555?style=for-the-badge&logo=php&logoColor=aaa&labelColor=0d1117)
-![TypeScript](https://img.shields.io/badge/TypeScript-Learning-555?style=for-the-badge&logo=typescript&logoColor=aaa&labelColor=0d1117)
+![Python](https://img.shields.io/badge/🐍_Python-Expert-a78bfa?style=for-the-badge&labelColor=0d0020)
+![Django](https://img.shields.io/badge/🎸_Django-Expert-a78bfa?style=for-the-badge&labelColor=0d0020)
+![DRF](https://img.shields.io/badge/⚡_DRF-Expert-a78bfa?style=for-the-badge&labelColor=0d0020)
+![Celery](https://img.shields.io/badge/🌿_Celery-Advanced-7c3aed?style=for-the-badge&labelColor=0d0020)
+![TypeScript](https://img.shields.io/badge/📘_TypeScript-Learning-5b21b6?style=for-the-badge&labelColor=0d0020)
+![Node.js](https://img.shields.io/badge/🟢_Node.js-Learning-5b21b6?style=for-the-badge&labelColor=0d0020)
 
-**DATABASES & CACHING**
+**🪐 DATABASES & CACHING**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Expert-00FF41?style=for-the-badge&logo=postgresql&logoColor=00FF41&labelColor=0d1117)
-![Redis](https://img.shields.io/badge/Redis-Advanced-00FF41?style=for-the-badge&logo=redis&logoColor=00FF41&labelColor=0d1117)
-![MySQL](https://img.shields.io/badge/MySQL-Advanced-00FF41?style=for-the-badge&logo=mysql&logoColor=00FF41&labelColor=0d1117)
+![PostgreSQL](https://img.shields.io/badge/🐘_PostgreSQL-Expert-a78bfa?style=for-the-badge&labelColor=0d0020)
+![Redis](https://img.shields.io/badge/🔴_Redis-Advanced-7c3aed?style=for-the-badge&labelColor=0d0020)
+![MySQL](https://img.shields.io/badge/🐬_MySQL-Advanced-7c3aed?style=for-the-badge&labelColor=0d0020)
 
-**CLOUD & DEVOPS**
+**☁️ CLOUD & DEVOPS**
 
-![AWS](https://img.shields.io/badge/AWS_EC2%2FS3%2FSES%2FSNS-Advanced-00FF41?style=for-the-badge&logo=amazonaws&logoColor=00FF41&labelColor=0d1117)
-![Docker](https://img.shields.io/badge/Docker-Advanced-00FF41?style=for-the-badge&logo=docker&logoColor=00FF41&labelColor=0d1117)
-![Nginx](https://img.shields.io/badge/Nginx-Advanced-00FF41?style=for-the-badge&logo=nginx&logoColor=00FF41&labelColor=0d1117)
+![AWS](https://img.shields.io/badge/☁️_AWS_EC2·S3·SES·SNS-Advanced-a78bfa?style=for-the-badge&labelColor=0d0020)
+![Docker](https://img.shields.io/badge/🐳_Docker-Advanced-7c3aed?style=for-the-badge&labelColor=0d0020)
+![Nginx](https://img.shields.io/badge/🛡️_Nginx-Advanced-7c3aed?style=for-the-badge&labelColor=0d0020)
 
-**AI & INTEGRATIONS**
+**🤖 AI & INTEGRATIONS**
 
-![Gemini](https://img.shields.io/badge/Google_Gemini_AI-Advanced-00FF41?style=for-the-badge&logo=google&logoColor=00FF41&labelColor=0d1117)
-![WhatsApp](https://img.shields.io/badge/WhatsApp_Business_API-Advanced-00FF41?style=for-the-badge&logo=whatsapp&logoColor=00FF41&labelColor=0d1117)
-![LangChain](https://img.shields.io/badge/LangChain_/_RAG-Intermediate-555?style=for-the-badge&labelColor=0d1117)
-![scikit](https://img.shields.io/badge/scikit--learn-Intermediate-555?style=for-the-badge&logo=scikitlearn&logoColor=aaa&labelColor=0d1117)
+![Gemini](https://img.shields.io/badge/✨_Google_Gemini-Advanced-a78bfa?style=for-the-badge&labelColor=0d0020)
+![WhatsApp](https://img.shields.io/badge/💬_WhatsApp_API-Advanced-a78bfa?style=for-the-badge&labelColor=0d0020)
+![LangChain](https://img.shields.io/badge/🔗_LangChain·RAG-Intermediate-5b21b6?style=for-the-badge&labelColor=0d0020)
+![scikit](https://img.shields.io/badge/🧠_scikit--learn-Intermediate-5b21b6?style=for-the-badge&labelColor=0d0020)
 
 </div>
 
 ---
 
-## `> ./signal-stats --fetch vinaynural`
+## 📡 `SIGNAL STATS — GALACTIC FREQUENCY`
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vinaynural&theme=github_dark" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vinaynural&theme=2077" height="170"/>
 &nbsp;&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vinaynural&theme=github_dark" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vinaynural&theme=2077" height="170"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=vinaynural&hide_border=true&background=0d1117&ring=00FF41&fire=00cc33&currStreakLabel=00FF41&sideLabels=00FF41&dates=c9d1d9&stroke=00FF41&currStreakNum=ffffff&sideNums=ffffff" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=vinaynural&hide_border=true&background=0d0020&ring=a78bfa&fire=7c3aed&currStreakLabel=a78bfa&sideLabels=c4b5fd&dates=9ca3af&stroke=7c3aed&currStreakNum=ffffff&sideNums=ffffff" height="170"/>
 
 </div>
 
 ---
 
-## `> cat focus/current.txt`
+## 🌠 `CURRENT FLIGHT PATH — NAVIGATING`
 
 ```
-  → TRAMES PVT LTD (FEB 2026 – PRESENT)
-    Contributing to a Singapore-based logistics tech platform — learning how large-scale
-    global freight systems are architected and operated in production. Node.js + TypeScript.
-
-  → DEEPENING SYSTEM DESIGN
-    Distributed systems, high-availability architectures, and backends that handle
-    real-world pressure at scale. Reading. Building. Iterating.
-
-  → AI INTEGRATION IN BACKEND WORKFLOWS
-    Intelligent APIs, RAG pipelines, and smarter async processing — bridging the gap
-    between AI capabilities and production-grade Django backends.
-
-  → ALWAYS BUILDING
-    Side projects. Open source contributions. Space science rabbit holes. 🌌
-    Still early in the journey. Excited about everything ahead.
+  ╔══════════════════════════════════════════════════════════════════════╗
+  ║           🛸  ACTIVE MISSIONS — MARCH 2026 AND BEYOND  🛸            ║
+  ╠══════════════════════════════════════════════════════════════════════╣
+  ║                                                                      ║
+  ║  🟣  TRAMES PVT LTD  [FEB 2026 — ONGOING]                           ║
+  ║      Singapore logistics tech platform. Node.js + TypeScript.        ║
+  ║      Global freight ops. Real-time shipment tracking. Still writing. ║
+  ║                                                                      ║
+  ║  🌌  DEEPENING SYSTEM DESIGN                                         ║
+  ║      Distributed systems. High-availability architectures.           ║
+  ║      Backends built for real-world gravitational pressure.           ║
+  ║                                                                      ║
+  ║  🤖  AI INTEGRATION IN BACKEND WORKFLOWS                             ║
+  ║      Intelligent APIs. RAG pipelines. Smarter async processing.      ║
+  ║      Bridging AI capabilities and production-grade Django backends.  ║
+  ║                                                                      ║
+  ║  🔭  OPEN SOURCE · ROBOTICS RESEARCH                                 ║
+  ║      Contributing to LLM-based automatic planner/controller gen.    ║
+  ║      Under Christopher Mower @ Huawei Noah's Ark Lab.               ║
+  ║                                                                      ║
+  ║  🌙  ALWAYS BUILDING                                                 ║
+  ║      Side projects. Space science rabbit holes. 🌌                   ║
+  ║      Still early in the journey. Excited about everything ahead.    ║
+  ║                                                                      ║
+  ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
 ---
 
-## `> ./contact --info`
+## 🪐 `DEEP SPACE COMMS — CONTACT`
 
 <div align="center">
 
-| Channel | Link |
-|:-------:|:-----|
-| 🌐 **Portfolio** | [vinay-engineer.me](https://vinay-engineer.me/) |
+| 🌌 Channel | 📡 Coordinates |
+|:---:|:---|
+| 🌐 **Mission Control** | [vinay-engineer.me](https://vinay-engineer.me/) |
 | 💼 **LinkedIn** | [linkedin.com/in/vinjr](https://www.linkedin.com/in/vinjr) |
 | 🐙 **GitHub** | [github.com/vinaynural](https://github.com/vinaynural) |
-| 📧 **Email** | [vinayagam.python@gmail.com](mailto:vinayagam.python@gmail.com) |
+| 📧 **Signal Relay** | [vinayagam.python@gmail.com](mailto:vinayagam.python@gmail.com) |
 | 🐦 **X / Twitter** | [x.com/\_vinyjr](https://x.com/_vinyjr) |
-| 📱 **Phone** | +91 90255 33402 |
-| 📄 **Resume** | [Download CV ⬇](https://vinay-engineer.me/assets/resume/Vinayagam_CV.pdf) |
+| 📱 **Frequency** | +91 90255 33402 |
+| 📄 **Mission Brief** | [Download CV ⬇](https://vinay-engineer.me/assets/resume/Vinayagam_CV.pdf) |
 
 </div>
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b4b,50:1a0a3e,100:0a0015&height=120&section=footer&text=The+cosmos+is+within+us+%E2%80%94+and+so+is+my+code.&fontSize=14&fontColor=c8b8ff&fontAlignY=55&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b4b,50:1a0a3e,100:0a0015&height=120&section=footer&text=The+cosmos+is+within+us+%E2%80%94+and+so+is+my+code.&fontSize=14&fontColor=c8b8ff&fontAlignY=55&animation=fadeIn"/>
+</picture>
+
 <div align="center">
 
 ```
-$ echo "The cosmos is within us. We are made of star-stuff — and so is my code." 🌌
+    ✦  ·  ˚  ·  ✦  ·  *  ·  ˚  ·  ✦  ·  *  ·  ˚  ·  ✦  ·  *  ·  ˚  ·  ✦  ·  *  ·  ˚
+         © VINAYAGAM D  ·  BACKEND ENGINEER  ·  CHENNAI, INDIA  ·  🌌
+    ✦  ·  ˚  ·  ✦  ·  *  ·  ˚  ·  ✦  ·  *  ·  ˚  ·  ✦  ·  *  ·  ˚  ·  ✦  ·  *  ·  ˚
 ```
 
-*© VINAYAGAM D · BACKEND ENGINEER · CHENNAI, IN*
-
-[![Portfolio](https://img.shields.io/badge/vinay--engineer.me-00FF41?style=for-the-badge&logo=googlechrome&logoColor=00FF41&labelColor=0d1117)](https://vinay-engineer.me/)
+[![Portfolio](https://img.shields.io/badge/🌌_vinay--engineer.me-ENTER_THE_COSMOS-a78bfa?style=for-the-badge&labelColor=0d0020)](https://vinay-engineer.me/)
 
 </div>

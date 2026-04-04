@@ -19,7 +19,7 @@
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=vinaynural&style=flat-square&color=a78bfa&label=👁️+OBSERVERS)](https://github.com/vinaynural)
+[![Profile Views](https://komarev.com/ghpvc/?username=viny4&style=flat-square&color=a78bfa&label=👁️+OBSERVERS)](https://github.com/viny4)
 [![Portfolio](https://img.shields.io/badge/🌐_MISSION_CONTROL-vinay--engineer.me-a78bfa?style=flat-square&labelColor=0d0020)](https://vinay-engineer.me/)
 [![LinkedIn](https://img.shields.io/badge/🪐_LINKEDIN-vinjr-7c3aed?style=flat-square&labelColor=0d0020)](https://www.linkedin.com/in/vinjr)
 [![Email](https://img.shields.io/badge/📡_SIGNAL-vinayagam.python-6d28d9?style=flat-square&labelColor=0d0020)](mailto:vinayagam.python@gmail.com)
@@ -127,7 +127,7 @@ class VinayagamD:
 ╚═══════════════════════════════════════╝
 ```
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vinaynural&bg_color=0d0020&color=a78bfa&line=7c3aed&point=e0d7ff&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=viny4&bg_color=0d0020&color=a78bfa&line=7c3aed&point=e0d7ff&area=true&hide_border=true" width="100%"/>
 
 </td>
 </tr>
@@ -343,13 +343,13 @@ Webhook-driven payment backend with idempotency, signature verification, auto-re
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vinaynural&theme=2077" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=viny4&theme=2077" height="170"/>
 &nbsp;&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vinaynural&theme=2077" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=viny4&theme=2077" height="170"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=vinaynural&hide_border=true&background=0d0020&ring=a78bfa&fire=7c3aed&currStreakLabel=a78bfa&sideLabels=c4b5fd&dates=9ca3af&stroke=7c3aed&currStreakNum=ffffff&sideNums=ffffff" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=viny4&hide_border=true&background=0d0020&ring=a78bfa&fire=7c3aed&currStreakLabel=a78bfa&sideLabels=c4b5fd&dates=9ca3af&stroke=7c3aed&currStreakNum=ffffff&sideNums=ffffff" height="170"/>
 
 </div>
 
@@ -390,7 +390,7 @@ Webhook-driven payment backend with idempotency, signature verification, auto-re
 |:---:|:---|
 | 🌐 **Mission Control** | [vinay-engineer.me](https://vinay-engineer.me/) |
 | 💼 **LinkedIn** | [linkedin.com/in/vinjr](https://www.linkedin.com/in/vinjr) |
-| 🐙 **GitHub** | [github.com/vinaynural](https://github.com/vinaynural) |
+| 🐙 **GitHub** | [github.com/viny4](https://github.com/viny4) |
 | 📧 **Signal Relay** | [vinayagam.python@gmail.com](mailto:vinayagam.python@gmail.com) |
 | 🐦 **X / Twitter** | [x.com/\_vinyjr](https://x.com/_vinyjr) |
 | 📱 **Frequency** | +91 90255 33402 |

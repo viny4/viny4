@@ -34,8 +34,7 @@
 
 ### 🧑‍💻 About Me
 
-Backend engineer at [Trames](https://trames.io) (Singapore-based logistics/freight tech), working remotely from
-Chennai. I build backend systems on TypeScript, Node.js, PostgreSQL and AWS, and lately spend my nights on
+Backend engineer at [Trames](https://trames.io). I worked on TypeScript, Node.js, PostgreSQL and AWS, and lately spend my nights on
 [Orbica](https://orbica.space) — an encyclopedia of every rocket and satellite launched since 1957 with live 3D
 orbit tracking.
 

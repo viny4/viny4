@@ -1,6 +1,6 @@
 <img src="./banner.png" width="100%" alt="Vinayagam banner" />
 
-<h1 align="center">Hi, I'm Vinayagam</h1>
+
 
 <p align="center">
   <strong>Backend Engineer · Distributed Systems · Physics · Astronomy</strong>

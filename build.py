@@ -72,14 +72,14 @@ CONTENT = {
     },
     "projects": [
         {
-            "name": "Nexora",
-            "url": "https://github.com/viny4/nexora-saas-platform",
-            "label": "SaaS · Billing",
-            "icon": "tenants",
-            "tagline": "Multi-tenant SaaS billing platform",
-            "description": "Row Level Security between tenants, SERIALIZABLE credit transactions "
-                           "and partitioned audit logs.",
-            "stack": ["NestJS", "Prisma", "PostgreSQL", "Redis"],
+            "name": "Engineering Shelf",
+            "url": "https://engineering-shelf.pages.dev",
+            "label": "Library · Reader",
+            "icon": "books",
+            "tagline": "Open library of engineering books",
+            "description": "Searchable shelves with an in-browser PDF reader, catalogued "
+                           "automatically from Git by GitHub Actions.",
+            "stack": ["React", "Vite", "PDF.js", "Cloudflare"],
         },
         {
             "name": "Backend Masterclass",
@@ -728,9 +728,12 @@ def card_height() -> float:
 def card_icon(svg: Svg, kind: str, x: float, y: float, t):
     line = f'fill="none" stroke="{t.ink2}" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"'
     lit = f'fill="{t.accent}" fill-opacity=".16" stroke="{t.accent}" stroke-width="1.5" stroke-linejoin="round"'
-    if kind == "tenants":  # rows kept apart by Row Level Security
-        body = (f'<rect x="4" y="12" width="24" height="8" {lit}/>'
-                f'<rect x="4" y="4" width="24" height="24" rx="5" {line}/>')
+    if kind == "books":  # spines on a shelf, one leaning
+        body = (f'<rect x="5" y="7" width="5.5" height="19" rx="1.2" {line}/>'
+                f'<rect x="12" y="10" width="5.5" height="16" rx="1.2" {lit}/>'
+                f'<rect x="20.5" y="8" width="5.5" height="18.5" rx="1.2" {line} '
+                f'transform="rotate(14 26 26)"/>'
+                f'<path d="M3 27.5H29" {line}/>')
     elif kind == "terminal":
         body = (f'<rect x="3" y="6" width="26" height="20" rx="4" {line}/>'
                 f'<path d="M8.5 12.5 12 16l-3.5 3.5M14.5 19.5H20" fill="none" stroke="{t.accent}" '

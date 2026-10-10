@@ -41,6 +41,7 @@ CONTENT = {
         ("Portfolio", "https://vinay-engineer.me"),
         ("LinkedIn", "https://linkedin.com/in/vinjr"),
         ("Orbica", "https://orbica.space"),
+        ("Engineering Shelf", "https://engineering-shelf.pages.dev"),
     ],
     # The banner and footer stress the half that matches the viewer's theme.
     "day": ("Building ", "backend systems", " by day."),

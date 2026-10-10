@@ -2,7 +2,7 @@
 
 <a href="https://vinay-engineer.me"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/viny4/viny4/main/assets/banner-night.svg"><img alt="Vinayagam: Backend Engineer. Distributed Systems · Physics · Astronomy." src="https://raw.githubusercontent.com/viny4/viny4/main/assets/banner-day.svg" width="100%"></picture></a>
 
-<p align="center"><a href="https://vinay-engineer.me"><b>Portfolio</b></a> &nbsp;·&nbsp; <a href="https://linkedin.com/in/vinjr"><b>LinkedIn</b></a> &nbsp;·&nbsp; <a href="https://orbica.space"><b>Orbica</b></a></p>
+<p align="center"><a href="https://vinay-engineer.me"><b>Portfolio</b></a> &nbsp;·&nbsp; <a href="https://linkedin.com/in/vinjr"><b>LinkedIn</b></a> &nbsp;·&nbsp; <a href="https://orbica.space"><b>Orbica</b></a> &nbsp;·&nbsp; <a href="https://engineering-shelf.pages.dev"><b>Engineering Shelf</b></a></p>
 
 <br>
 
